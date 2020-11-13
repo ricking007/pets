@@ -1,13 +1,4 @@
 composer.phar
 /vendor/
-/public/css/
-/public/files/
-/public/font-awesome/
-/public/fonts/
-/public/img/
-/public/js/
-/public/json/
-/public/lib/
-/public/plugins/
 /public/.htaccess_server_https
 /App/config_servidor.php
